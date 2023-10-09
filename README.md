@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="<iframe src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
     <h1 align="center"> Hi 👋, I'm Pedro. </h1>
     <h3 align="center"></h3>
 </div>
