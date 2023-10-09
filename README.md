@@ -7,11 +7,12 @@
 
 ---
 
-some information about me:
+Some information about me:
 
-- 🔭 Actualmente estoy trabajando en una formacion sobre desarrollo de apps moviles
-- 🌱 Actualmente estoy aprendiendo lenguaje swift y kotlin
-- 💬 Pregúntame sobre...
-- 📫 Cómo contactarme: tlf; +34 671 728 043 o email; pedroliebana35@gmail.com
-- ⚡ Dato curioso: apasionado de la musica rock y motos custom.
-
+- 🔭 I am currently working on training on mobile app development
+- 🌱 I am currently learning swift and kotlin language
+- 💬 Ask me about...
+- 📫 How to contact me:
+      * Phone; +34 671 728 043
+      * Email; pedroliebana35@gmail.com
+- ⚡ Fun fact: passionate about rock music and custom motorcycles.
