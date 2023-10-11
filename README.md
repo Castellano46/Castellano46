@@ -34,8 +34,7 @@
 
 ### 📊 My Stats :
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Castellano46&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Castellano46&theme=radical)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Castellano46&show_icons=true&theme=radical)
 
