@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me :Some information about me:
+### 👨‍💻 About Me: Some information about me:
 
 - 🔭 I am currently working on training on mobile app development
 - 🌱 I am currently learning swift and kotlin language
