@@ -36,6 +36,11 @@
 
 Throughout the Mobile App Development Bootcamp, I have created several applications, utilizing different resources for each. Below, I showcase some of these apps.
 
+## Practice for the iOS Fundamentals module at Keepcoding.
+In this practice, I'm developing a small app using Xcode and the Swift language, consuming the Dragon Ball API. For the first time, we fully immerse ourselves in the development of an iOS app; it's our initial encounter with something tangible in the app development process.
+
+[Go to the project ]( https://github.com/Castellano46/fundamentosiOS)
+
 ## Practice for the Design Patterns module at Keepcoding.
 In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. All the data is loaded directly from Xcode through a JSON that I created beforehand.
 
