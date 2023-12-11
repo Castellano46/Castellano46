@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me: Some information about me:
 
-- 🔭 I am currently working on training on mobile app development
-- 🌱 I am currently learning swift and kotlin language
+- 🔭 I am currently working on training on mobile app development. 
+- 🌱 I am currently learning swift and kotlin language. 
 - 📫 How to contact me:
      **Phone; +34 671 728 043** ->
      **Email; pedroliebana35@gmail.com**
