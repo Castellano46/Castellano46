@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVoeWNwNWtrM2ZtbGdqNzBtdWcya3ZlMWV0M3Y1N3duNDVuYWc4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
    <h1 align="center"> Hi 👋, I'm Pedro. </h1>
-   <h3 align="center"> I am a junior iOS developer from Spain. I am currently immersed in the learning and training offered by keepcoding for the development of mobile apps. I am very             passionate about the technological world and I always try to learn new skills.
+   <h3 align="center"> I am a junior iOS developer from Spain. I am currently immersed in the learning and training offered by keepcoding for the development of mobile apps. I'm passionate about the technological world and I'm always trying to learn new skills..
    </h3>
 </div>
 
@@ -34,38 +34,38 @@
 
 ## My Projects 🚧🛠️🚧
 
-Throughout the Mobile App Development Bootcamp, I have created several applications, utilizing different resources for each. Below, I showcase some of these apps.
+Throughout the Mobile App Development Bootcamp, I have created several applications, using different resources for each one. Below, I show some of these apps.
 
 ## Practice for the iOS Fundamentals module at Keepcoding.
-In this practice, I'm developing a small app using Xcode and the Swift language, consuming the Dragon Ball API. For the first time, we fully immerse ourselves in the development of an iOS app; it's our initial encounter with something tangible in the app development process.
+In this practice, I'm developing a small app using Xcode and the Swift language, consuming the Dragon Ball API. For the first time, we dive right into the development of an iOS app; it's our initial encounter with something tangible in the app development process.
 
 [Go to the project ]( https://github.com/Castellano46/fundamentosiOS)
 
 ## Practice for the Design Patterns module at Keepcoding.
-In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. All the data is loaded directly from Xcode through a JSON that I created beforehand.
+In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. All the data is loaded directly from Xcode through a JSON that I have previously created.
 
  [Go to the project ](https://github.com/Castellano46/MVVM-Bikes)
  
  ## Practice for the Advanced iOS module at Keepcoding.
-In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. For its development, external libraries such as Kingfisher and Keychain have been used. Additionally, we have utilized CoreData and MapKit for the first time.
+In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. For its development I have used external libraries like Kingfisher and Keychain. In addition, I have used CoreData and MapKit for the first time.
 
  [Go to the project ](https://github.com/Castellano46/iOSAvanzado)
  
  ## Practice for the SuperPowers module at KeepCoding.
-In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. For its development, the ViewInspector library has been used to conduct tests. Additionally, we delve into SwiftUI and use Combine.
+In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. For its development, the ViewInspector library has been used for testing. In addition, we went deeper into SwiftUI and Combine.
  
  [Go to the project ](https://github.com/Castellano46/Mavel-SuperPoderes)
  
  ---
- I am also developing apps on my own and in my free time to solidify all the knowledge gained throughout the Bootcamp. I currently have two apps in development, and I hope to finish them soon.
+ I am also developing apps on my own and in my spare time to solidify all the knowledge acquired throughout the Bootcamp. I currently have two apps in development, and I hope to finish them soon.
  
  ## AppFitness.
- In this app, we can input our user data in the User Registration section, and it will calculate our BMI, indicating the range we fall into. It also has the function to record your own exercises in the Exercise Log to track progress in terms of time intensity and/or the weight used during execution. On the other hand, there is a Statistics window that displays user information over time.
+ In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
  
   [Go to the project ](https://github.com/Castellano46/AppFitness)
   
   ## Calculator-Conversion.
-  Through this app, I want to build a calculator that includes the option for conversions. These conversions will cover units of measurement, time, temperature, currency, and much more. Additionally, it will feature both conventional and unconventional units of measurement.
+  Through this app, I want to build a calculator that includes the option of conversions. These conversions will cover units of measurement, time, temperature, currency, and much more. In addition, it will include conventional and non-conventional units of measurement.
   
    [Go to the project ](https://github.com/Castellano46/Calculator-Conversion)
                                                                         
