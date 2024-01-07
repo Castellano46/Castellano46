@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVoeWNwNWtrM2ZtbGdqNzBtdWcya3ZlMWV0M3Y1N3duNDVuYWc4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
    <h1 align="center"> Hi 👋, I'm Pedro. </h1>
-   <h3 align="center"> I am a junior iOS developer from Spain. I am currently immersed in the learning and training offered by keepcoding for the development of mobile apps. I'm passionate about the technological world and I'm always trying to learn new skills..
+   <h3 align="center"> I am a junior iOS developer from Spain. I am currently immersed in the learning and training offered by keepcoding for the development of mobile apps. I'm passionate about the technological world and I'm always trying to learn new skills.
    </h3>
 </div>
 
@@ -63,6 +63,11 @@ In this practice, I develop a small app using Xcode and the Swift language under
  In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
  
   [Go to the project ](https://github.com/Castellano46/AppFitness)
+
+   ## Notes.
+I developed this app to practice in a very simple way the MVVM architecture. With it we will be able to organise our day including all the tasks we have to do. First of all, we will have the option to create any task, which will be added to our to-do list, called 'TO-DO'. When we decide to tackle a specific task, we will move it to the to-do list, called 'IN-Progress'. Finally, once we have completed a task, it will be automatically moved to the list of completed tasks, entitled 'Done'.
+ 
+  [Go to the project ](https://github.com/Castellano46/Notes)
   
   ## Calculator-Conversion.
   Through this app, I want to build a calculator that includes the option of conversions. These conversions will cover units of measurement, time, temperature, currency, and much more. In addition, it will include conventional and non-conventional units of measurement.
