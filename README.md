@@ -14,6 +14,7 @@
 - 📫 How to contact me:
   * **Phone; +34 671 728 043**
   * **Email; pedroliebana35@gmail.com**
+  * **LinkedIn; www.linkedin.com/in/pedroliebana**
 - ⚡ Fun fact: passionate about rock music and custom motorcycles.
 
 <div align="left">
