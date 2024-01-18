@@ -12,9 +12,9 @@
 - 🔭 I am currently working on training on mobile app development. 
 - 🌱 I am currently learning swift and kotlin language. 
 - 📫 How to contact me:
-  * **Phone; +34 671 728 043**
-  * **Email; pedroliebana35@gmail.com**
-  * **LinkedIn; www.linkedin.com/in/pedroliebana**
+  * **Phone: +34 671 728 043**
+  * **Email: pedroliebana35@gmail.com**
+  * **LinkedIn: www.linkedin.com/in/pedroliebana**
 - ⚡ Fun fact: passionate about rock music and custom motorcycles.
 
 <div align="left">
