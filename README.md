@@ -34,8 +34,7 @@
 ---
 
 ## My Projects 🚧🛠️🚧
-> .[!IMPORTANT].
-> Throughout the Mobile App Development Bootcamp, I have created several applications, using different resources for each one. Below, I show some of these apps.
+Throughout the Mobile App Development Bootcamp, I have created several applications, using different resources for each one. Below, I show some of these apps.
 
  ## Practice for the Advanced iOS module at Keepcoding.
 In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. For its development I have used external libraries like Kingfisher and Keychain. In addition, I have used CoreData and MapKit for the first time.
