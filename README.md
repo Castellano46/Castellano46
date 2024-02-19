@@ -55,6 +55,11 @@ In this practice, I'm developing a small app using Xcode and the Swift language,
 In this practice, I develop a small app using Xcode and the Swift language under the MVVM (Model-View-ViewModel) design pattern. All the data is loaded directly from Xcode through a JSON that I have previously created.
 
  [Go to the project ](https://github.com/Castellano46/MVVM-Bikes)
+
+ ## Practice for the Android SuperPowers module at KeepCoding.
+In this practice we develop a small app with Android Studio and Kotlin language under the MVVM (Model View ViewModel) design pattern. For its development, we are introduced for the first time in Jetpack Compose.
+
+ [Go to the project ]([https://github.com/Castellano46/MVVM-Bikes](https://github.com/Castellano46/PracticaAndroidSuperPoderes))
  
  ---
  I am also developing apps on my own and in my spare time to solidify all the knowledge acquired throughout the Bootcamp. I currently have two apps in development, and I hope to finish them soon.
