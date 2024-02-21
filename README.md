@@ -51,6 +51,10 @@ In this practice, I develop a small app using Xcode and the Swift language under
 ## Practice for the iOS Fundamentals module at Keepcoding.
 In this practice, I'm developing a small app using Xcode and the Swift language, consuming the Dragon Ball API. For the first time, we dive right into the development of an iOS app; it's our initial encounter with something tangible in the app development process.
 
+<div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Fundamentos%20iOS.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+
 [Go to the project ]( https://github.com/Castellano46/fundamentosiOS)
 
 ## Practice for the Design Patterns module at Keepcoding.
@@ -61,6 +65,10 @@ In this practice, I develop a small app using Xcode and the Swift language under
  ## Practice for the Android SuperPowers module at KeepCoding.
 In this practice we develop a small app with Android Studio and Kotlin language under the MVVM (Model View ViewModel) design pattern. For its development, we are introduced for the first time in Jetpack Compose.
 
+<div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Android%20Superpoderes.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+
  [Go to the project ](https://github.com/Castellano46/PracticaAndroidSuperPoderes)
  
  ---
@@ -68,11 +76,20 @@ In this practice we develop a small app with Android Studio and Kotlin language 
  
  ## AppFitness.
  In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
+
+ <div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Fitness1.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+ <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Fitness2.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
  
   [Go to the project ](https://github.com/Castellano46/AppFitness)
 
    ## Notes.
 I developed this app to practice in a very simple way the MVVM architecture. With it we will be able to organise our day including all the tasks we have to do. First of all, we will have the option to create any task, which will be added to our to-do list, called 'TO-DO'. When we decide to tackle a specific task, we will move it to the to-do list, called 'IN-Progress'. Finally, once we have completed a task, it will be automatically moved to the list of completed tasks, entitled 'Done'.
+
+<div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Notes.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
  
   [Go to the project ](https://github.com/Castellano46/Notes)
   
