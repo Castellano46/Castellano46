@@ -85,9 +85,18 @@ In this practice we develop a small app with Android Studio and Kotlin language 
  
  ---
  I am also developing apps on my own and in my spare time to solidify all the knowledge acquired throughout the Bootcamp. I currently have two apps in development, and I hope to finish them soon.
+
+ ## CinePro.
+ In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
+
+ <div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Vision.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+ 
+  [Go to the project ](https://github.com/Castellano46/FilmPro/tree/main)
  
  ## AppFitness.
- In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
+ n this application, we have a cinema screen that shows the film we select. On the left side, a list of available movies to watch is presented, showing the cover of each movie along with its title. In addition, we include a heart icon that users can tap to mark a film as a favourite. It is important to note that this application was developed as an introduction to Vision Pro development. The movies used were sourced from a JSON file, which I have already removed to avoid publication, and originated from a series of movies stored in my personal Dropbox.
 
  <div style="display: flex;">
   <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Fitness1.png"" alt="Imagen 1" style="width: 500px; height: auto;">
