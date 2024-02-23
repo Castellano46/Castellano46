@@ -90,7 +90,8 @@ In this practice we develop a small app with Android Studio and Kotlin language 
  In this app, we can enter our user data in the User Registration section, and it will calculate our BMI, indicating the range in which we are. It also has the function on registering our own exercises in the Exercise Log to track progress in terms of time intensity and/or weight used during execution. On the other hand, there is a Statistics window that shows user information over time.
 
  <div style="display: flex;">
-  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Vision.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/vpg.gif"" alt="Imagen 1" style="width: 500px; height: auto;">
+    <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Vision.png"" alt="Imagen 1" style="width: 500px; height: auto;">
 <div style="display: flex;">
  
   [Go to the project ](https://github.com/Castellano46/FilmPro/tree/main)
