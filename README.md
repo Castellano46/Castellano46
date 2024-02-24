@@ -114,6 +114,15 @@ I developed this app to practice in a very simple way the MVVM architecture. Wit
 <div style="display: flex;">
  
   [Go to the project ](https://github.com/Castellano46/Notes)
+
+   ## CocinApp.
+In this App we have a Login screen as a first view that when entering our data (previously registered in the Spoonacular API) we will be able to access the content of the App. It is still under development but the idea is to have a recipe search engine that allows us to find the recipe that best suits our needs at all times. We will be able to select the one we want to see its ingredients and how to prepare it, we will also have a Favourites section and a section where we will be able to create our own recipes and menus, joining several dishes from the App.
+
+<div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/cocina.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+ 
+  [Go to the project ](https://github.com/Castellano46/CocinApp)
   
   ## Calculator-Conversion.
   Through this app, I want to build a calculator that includes the option of conversions. These conversions will cover units of measurement, time, temperature, currency, and much more. In addition, it will include conventional and non-conventional units of measurement.
