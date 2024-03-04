@@ -90,7 +90,7 @@ In this practice we develop a small app with Android Studio and Kotlin language 
   <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Android%20Superpoderes.png"" alt="Imagen 1" style="width: 500px; height: auto;">
 <div style="display: flex;">
 
- [Go to the project ](https://github.com/Castellano46/PracticaAndroidSuperPoderes)
+ [Go to the project ](https://github.com/Castellano46/Android-SuperPoderes)
  
  ---
  I am also developing apps on my own and in my spare time to solidify all the knowledge acquired throughout the Bootcamp. I currently have two apps in development, and I hope to finish them soon.
