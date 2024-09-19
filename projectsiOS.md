@@ -9,6 +9,11 @@ The game consists of two parts:
 - Numbers Round: Random numbers are presented, and you must use basic mathematical operations to reach the target number or get as close as possible.
 Both challenges have a 40-second timer.
 
+ <div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%201.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+ <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%202.png"" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+
 [Go to the project ](https://github.com/Castellano46/CifrasYLetras)
 
  ## CinePro.
