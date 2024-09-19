@@ -2,7 +2,9 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWVoeWNwNWtrM2ZtbGdqNzBtdWcya3ZlMWV0M3Y1N3duNDVuYWc4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
    <h1 align="center"> Hi 👋, I'm Pedro. </h1>
-   <h3 align="center"> I'm a junior iOS developer from Spain. I am currently immersed in the learning and training offered by keepcoding for the development of mobile apps. I'm passionate about the technological world and I'm always trying to learn new skills.
+   <h3 align="center"> I am Pedro Liébana, a passionate Information Technology (IT) enthusiast from a young age. I started my self-taught journey in programming with Python, HTML, and CSS tools that not only sparked my passion but also motivated me to make a radical career change to become an iOS developer today.
+
+I consider myself a person who is passionate about knowledge and always seeking new skills and learning opportunities. I strive to turn my weaknesses into strengths through continuous training.
    </h3>
 </div>
 
@@ -10,8 +12,8 @@
 
 ### 👨‍💻 About Me: Some information about me:
 
-- 🔭 I am currently working on training on mobile app development. 
-- 🌱 I am currently learning swift and kotlin language. 
+- 🔭 I am currently working on my own, creating iOS and Android apps. 
+- 🌱 I have extensive knowledge of Python development 
 - 📫 How to contact me:
   * **Phone: +34 671 728 043**
   * **Email: pedroliebana35@gmail.com**
