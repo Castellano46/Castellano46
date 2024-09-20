@@ -8,6 +8,8 @@ This app is a key milestone as it marks the first app I developed and launched f
   <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2013.png" alt="Imagen 1" style="width: 500px; height: auto;">
  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2014.png" alt="Imagen 1" style="width: 500px; height: auto;">
 <div style="display: flex;">
+
+[Go to the project ](https://github.com/Castellano46/Kuatro)
  
 ---
 Additionally, you can explore the apps I developed during the Bootcamp I completed at Keepcoding. These projects were instrumental in building the foundation of my knowledge and skills.
