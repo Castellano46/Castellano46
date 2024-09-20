@@ -36,7 +36,7 @@ I consider myself a person who is passionate about knowledge and always seeking 
 
 ---
 * ## [Go to My Professional Profile](https://github.com/Castellano46/Castellano46/blob/main/profile.md) 📝💻📱
-* ## [Go to My CV](https://github.com/Castellano46/Castellano46/blob/main/CV-Pedro.pdf) 📚🧑🏼‍💻
+* ## [Go to My CV](https://github.com/Castellano46/Castellano46/blob/main/CV%202024.pdf) 📚🧑🏼‍💻
 
 ## My Projects 🚧🛠️🚧
 
