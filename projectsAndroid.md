@@ -1,5 +1,16 @@
 Below, you will find the apps I have developed so far, along with those still in progress. Each entry includes representative images and a brief description.
 ---
+## Tu primer Lambo.
+
+This is a playful app I'm developing, inspired by the controversial Llados and the way his students treat his words as gospel. The app features a motivational onboarding that leads to the main menu. From there, users can track their workouts and set morning alarms, with progress reflected in a calendar. Staying consistent every day brings users closer to their ultimate goal: becoming the owner of a Lamborghini.
+
+ <div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2015.png" alt="Imagen 1" style="width: 500px; height: auto;">
+ <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2016.png" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+
+[Go to the project ](https://github.com/Castellano46/Tu_primer_Lambo)
+
 ## Padel Kuatro.
 
 This app is a key milestone as it marks the first app I developed and launched for use by a local business to serve its customers. It represents the initial steps we took in creating a booking and reservation management service for a padel court. I was responsible for developing the entire Android section, and together with a colleague, we built the app using Firebase.
