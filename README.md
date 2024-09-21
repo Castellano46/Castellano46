@@ -44,7 +44,7 @@ Here is a list of the key technologies I work with. By clicking on any of the li
 
 * ## [Go to iOS Projects](https://github.com/Castellano46/Castellano46/blob/main/projectsiOS.md) 🍏💻📱
 * ## [Go to Android Projects](https://github.com/Castellano46/Castellano46/blob/main/projectsAndroid.md) 👽💻📱
-* ## [Go to Python Projects](https://github.com/Castellano46/Castellano46/blob/main/profile.md) 🐍⌨️💻
+* ## [Go to Python Projects](https://github.com/Castellano46/Castellano46/blob/main/python.md) 🐍⌨️💻
 
 ---                                                                       
 ### 📊 My Stats :
