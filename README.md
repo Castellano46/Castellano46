@@ -31,6 +31,9 @@ I consider myself a person who is passionate about knowledge and always seeking 
        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  title="Android" alt="Android" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"  title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"  title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;     
    </div>
 </div>
 
