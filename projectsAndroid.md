@@ -1,5 +1,17 @@
 Below, you will find the apps I have developed so far, along with those still in progress. Each entry includes representative images and a brief description.
 ---
+# Estética Mari App.
+**Estética Mari App** is my second application developed for a local business, soon to be available for download on the **Play Store**. This app offers a complete and personalized experience for **Estética Mari** clients, allowing them to explore detailed beauty services, manage their profile, and receive notifications with exclusive promotions. 
+With features like registration via Email, Google, or Facebook, and an intuitive menu with sections like **Profile**, **About**, and **Contact** enable users to navigate and customize their experience easily. The app is lightweight and relies on **Firebase** to provide a smooth interaction with minimal storage usage.
+
+<div style="display: flex;">
+  <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2023.png" alt="Imagen 1" style="width: 500px; height: auto;">
+ <img src="https://github.com/Castellano46/Castellano46/blob/main/Imagenes%20readme/Group%2024.png" alt="Imagen 1" style="width: 500px; height: auto;">
+<div style="display: flex;">
+
+ For more details, check out the [README]( https://github.com/Castellano46/Readme_Estetica).
+
+
 ## Tu primer Lambo.
 
 This is a playful app I'm developing, inspired by the controversial Llados and the way his students treat his words as gospel. The app features a motivational onboarding that leads to the main menu. From there, users can track their workouts and set morning alarms, with progress reflected in a calendar. Staying consistent every day brings users closer to their ultimate goal: becoming the owner of a Lamborghini.
