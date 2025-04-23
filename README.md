@@ -61,7 +61,7 @@ Here is a list of the key technologies I work with. By clicking on any of the li
 ---                                                                       
 ### 📊 My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Castellano46&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Castellano46&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Castellano46&show_icons=true&theme=radical)
 
